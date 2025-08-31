@@ -1,0 +1,8 @@
+User: What is AI
+Assistant: Artificial intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems.  These processes include learning, reasoning, and self-correction.
+
+User: What is AI
+Assistant: Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to perform tasks that are usually done by humans because they require human intelligence and discernment.
+
+User: What is AI
+Assistant: Artificial intelligence (AI) encompasses the development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
