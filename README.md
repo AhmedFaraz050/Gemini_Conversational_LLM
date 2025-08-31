@@ -1,6 +1,4 @@
-Got it! Here’s a **clean, concise README** you can copy-paste directly without extra explanations:
 
-````markdown
 # 💬 Gemini Conversational LLM
 
 A Streamlit-based chat app using Google’s Gemini API. Chat with AI in different modes: Professional, Creative, or Technical.
